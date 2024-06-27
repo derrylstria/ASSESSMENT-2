@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nim": "6701223189",
+        "nama": "Josh Ariel",
+        "kelas": "D3SI46-07",
+        "jurusan": "Sistem Informasi",
+        "username": "joshariel",
+        "status": "Sudah"
+    },
+    {
+        "id": 2,
+        "nim": "6701223042",
+        "nama": "Bima Haris Mazaya",
+        "kelas": "D3SIA46-01",
+        "jurusan": "Sistem Informasi Akuntansi",
+        "username": "bimaaharis",
+        "status": "Belum"
+    },
+    {
+        "id": 3,
+        "nim": "6701223176",
+        "nama": "Regina Maheswari",
+        "kelas": "D3MP46-04",
+        "jurusan": "Manajemen Pemasaran",
+        "username": "reginamahes",
+        "status": "Sudah"
+    },
+    {
+        "id": 4,
+        "nim": "6701223162",
+        "nama": "Dwi Putri",
+        "kelas": "D3MP46-02",
+        "jurusan": "Manajemen Pemasaran",
+        "username": "dwiputri",
+        "status": "Sudah"
+    },
+    {
+        "id": 5,
+        "nim": "6701223051",
+        "nama": "Gibran Sane",
+        "kelas": "D4TRM46-01",
+        "jurusan": "Teknologi Rekayasa Multimedia",
+        "username": "gibsanne",
+        "status": "Belum"
+    }
+]
